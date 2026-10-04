@@ -29,7 +29,7 @@ function handleFormSubmit(event){
     event.preventDefault();
 
     // CHANGE 1: YAHAN APNA NUMBER DAALO - 91 ke saath
-    const yourNumber = "917830547324"; 
+    const yourNumber = "9179828 93324"; 
 
     let name = document.getElementById('c_name').value;
     let phone = document.getElementById('c_phone').value;
